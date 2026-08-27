@@ -34,7 +34,7 @@ Portfólio pessoal responsivo desenvolvido com **HTML5**, **CSS3** e **JavaScrip
 
 1. Clone o repositório ou baixe os arquivos:
    ```bash
-   git clone https://github.com/gabrielmigotoamaral-lab/meu-portfolio.git
+   git clone https://github.com/gabrielmigotoamaral-lab/Portf-lio-Gabriel-Migoto.git
    ```
 2. Abra o arquivo `index.html` diretamente em qualquer navegador moderno ou utilize a extensão **Live Server** no VS Code.
 
